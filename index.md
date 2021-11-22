@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/choupinaibao/wangdi20192123066.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 软件设计第一次作业
 作业要求：学习网站Repositories项目代码托管功能，并使用starUML建立其各功能用例的用例图模型，在github中创建一个博客，将上述过程记录在博客中。
+主要负责部分：在本次作业的小组分工中，我主要负责学习上传文件功能以及创建其用例图。
+作业过程：
+1.注册一个github账户，创建完成后登录进入github主页
+2.创建一个新的repository
+3.进入新建的repository
+4.在主画面的右侧找到upload files
+5.进入upload files界面
+6.选择我们要上传的文件，或者直接拖动文件至页面区域内（需先本地创建一个即将上传的文件）
+7.填写上传信息后提交
